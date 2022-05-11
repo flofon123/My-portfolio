@@ -339,6 +339,7 @@ span{
     color: #000000;
     padding: 1.5em;
     border: 1px solid white;
+    resize: none;
 }
 
 
